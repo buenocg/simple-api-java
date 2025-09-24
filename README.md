@@ -1,6 +1,5 @@
 # Simple API Java 
-# ajuste novo
-# nova tela de configutacao
+
 
 Aplicação API 
 
